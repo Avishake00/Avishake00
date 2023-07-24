@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **sbardhan683@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QqpoVTKH4g-6gLuF4TnvGOFE9wilNZnw/view](https://drive.google.com/file/d/1QqpoVTKH4g-6gLuF4TnvGOFE9wilNZnw/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QqpoVTKH4g-6gLuF4TnvGOFE9wilNZnw/view]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
