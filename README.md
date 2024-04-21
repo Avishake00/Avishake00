@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avishake Bardhan</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-- 🌱 Currently wants to deep drive into **Devops**
+- 🌱 2 years of experience as a **full stack developer** now levarage my knowladge with app development 
 
 - 📫 How to reach me **sbardhan683@gmail.com**
 
